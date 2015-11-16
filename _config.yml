@@ -1,0 +1,23 @@
+name: The Next Step
+favicon: null
+layout_spectrum: 0.23367877840064466
+typography_spectrum: 0.03122244356200099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9114014059305191
+  lightness: 0.05890300124883652
+  saturation: 0.8868793540168554
+  rhythmicContrast: 0.36933374684304
+purpose: []
