@@ -1,7 +1,7 @@
 name: The Next Step
 favicon: null
-layout_spectrum: 0.23367877840064466
-typography_spectrum: 0.03122244356200099
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
