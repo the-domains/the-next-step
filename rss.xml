@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Keep looking forward]]></title>
+        <description><![CDATA[Keep looking forward]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Aug 2016 14:45:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Keep Looking Forward ]]></title>
+            <description><![CDATA[<article><h1>Keep Looking Forward </h1><h2>Creative audio-visual technician looking for new opportunities</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/881adfab-382e-400f-823b-e7292e8bf529.jpg"></article>]]></description>
+            <link>undefinedkeep-looking-forward/index.html</link>
+            <guid isPermaLink="false">9eb2a8f0-4f20-4be7-976d-466a098768e8</guid>
+            <pubDate>Tue, 16 Aug 2016 14:45:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
