@@ -5,15 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T14:45:28.533Z'
-dateModified: '2016-08-16T14:44:31.947Z'
+datePublished: '2016-08-16T14:47:56.351Z'
+dateModified: '2016-08-16T14:47:39.345Z'
 title: 'Keep Looking Forward '
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-16-keep-looking-forward.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: keep-looking-forward/index.html
 _type: Article
 
