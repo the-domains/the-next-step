@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-17T22:21:27.368Z'
-dateModified: '2016-08-17T22:21:17.240Z'
+datePublished: '2016-08-17T22:28:43.662Z'
+dateModified: '2016-08-17T22:28:15.468Z'
 title: 'Keep Looking Forward '
 author:
   - name: ''
@@ -16,9 +16,9 @@ via: {}
 sourcePath: _posts/2016-08-16-keep-looking-forward.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 _type: Blurb
