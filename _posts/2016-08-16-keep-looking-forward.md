@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T14:47:56.351Z'
-dateModified: '2016-08-16T14:47:39.345Z'
+datePublished: '2016-08-17T21:01:50.096Z'
+dateModified: '2016-08-17T21:01:14.946Z'
 title: 'Keep Looking Forward '
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-16-keep-looking-forward.md
 authors: []
