@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-17T21:01:50.096Z'
-dateModified: '2016-08-17T21:01:14.946Z'
+datePublished: '2016-08-17T22:21:27.368Z'
+dateModified: '2016-08-17T22:21:17.240Z'
 title: 'Keep Looking Forward '
 author:
   - name: ''
@@ -15,13 +16,12 @@ via: {}
 sourcePath: _posts/2016-08-16-keep-looking-forward.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
-starred: true
-url: keep-looking-forward/index.html
-_type: Article
+starred: false
+_type: Blurb
 
 ---
 # Keep Looking Forward ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/881adfab-382e-400f-823b-e7292e8bf529.jpg)
