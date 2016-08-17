@@ -4,7 +4,7 @@
         <description><![CDATA[Keep looking forward]]></description>
         <link>https://thegrid.ai/the-next-step/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 21:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 21:12:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-next-step/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Keep Looking Forward ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-next-step/keep-looking-forward/index.html</link>
             <guid isPermaLink="false">9eb2a8f0-4f20-4be7-976d-466a098768e8</guid>
             <pubDate>Wed, 17 Aug 2016 21:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f409bfbf-28b8-4b6a-85a8-092f5fddebfb.jpg">]]></description>
+            <link>https://thegrid.ai/the-next-step/matthijs-van-ginkel/index.html</link>
+            <guid isPermaLink="false">a1d6cf46-2de6-4b04-8128-31bcf1627a30</guid>
+            <pubDate>Wed, 17 Aug 2016 21:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
