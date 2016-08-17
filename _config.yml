@@ -1,4 +1,4 @@
-name: The Next Step
+name: Keep looking forward
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0
@@ -21,7 +21,7 @@ color:
     - '#040d17'
     - '#a6c9ba'
     - '#27435f'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.05890300124883652
   saturation: 0.8868793540168554
   rhythmicContrast: 0.36933374684304
