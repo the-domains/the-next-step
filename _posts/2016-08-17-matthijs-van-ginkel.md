@@ -1,22 +1,20 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'Mijn naam is Matthijs, 24 en een passie voor Media techniek. '
-datePublished: '2016-08-17T22:21:35.577Z'
-dateModified: '2016-08-17T22:20:41.390Z'
-title: Matthijs van Ginkel
-author: []
-via: {}
+datePublished: '2016-08-24T20:47:07.866Z'
 sourcePath: _posts/2016-08-17-matthijs-van-ginkel.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-24T20:47:07.236Z'
+title: Matthijs van Ginkel
+publisher: {}
+description: 'Mijn naam is Matthijs, 24 en een passie voor Media techniek.'
+inLanguage: null
+inNav: true
 starred: true
 url: matthijs-van-ginkel/index.html
 _type: Article
@@ -25,7 +23,7 @@ _type: Article
 # Matthijs van Ginkel
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f409bfbf-28b8-4b6a-85a8-092f5fddebfb.jpg)
 
-Mijn naam is Matthijs, 24 en een passie voor Media techniek. 
+Mijn naam is Matthijs, 24 en een passie voor Media techniek.
 
 Al de helft van mijn leven zit ik al geworteld in de media, filmpjes maken toen Youtube net begon en de eerste stappen als Front of House geluid mixen.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59e42d2e-c514-4cda-8b3a-e024585114f1.jpg)
